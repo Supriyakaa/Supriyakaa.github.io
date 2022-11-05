@@ -25,7 +25,7 @@ const data = [
     deploy: "https://stellular-yeot-3906c1.netlify.app/",
   },
   {
-    title: "INDIA TOADAY",
+    title: "INDIA TODAY",
     desc: "India Today is a weekly Indian English-language news magazine published by Living Media India Limited.",
     techStack: "HTML | CSS | JS | Browser Local Storage",
     feature:
