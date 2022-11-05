@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.addaeef7.css",
-    "main.js": "/static/js/main.acb8049d.js",
+    "main.js": "/static/js/main.8238540c.js",
     "static/js/787.d6cb1aba.chunk.js": "/static/js/787.d6cb1aba.chunk.js",
     "static/media/Apple_TV.png": "/static/media/Apple_TV.9a2df9cdc2dd2098a917.png",
     "static/media/NORDSTROM.png": "/static/media/NORDSTROM.d59d464ecf77e571e212.png",
@@ -14,11 +14,11 @@
     "static/media/logo2.png": "/static/media/logo2.dc6e8d6795d34485038a.png",
     "index.html": "/index.html",
     "main.addaeef7.css.map": "/static/css/main.addaeef7.css.map",
-    "main.acb8049d.js.map": "/static/js/main.acb8049d.js.map",
+    "main.8238540c.js.map": "/static/js/main.8238540c.js.map",
     "787.d6cb1aba.chunk.js.map": "/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.addaeef7.css",
-    "static/js/main.acb8049d.js"
+    "static/js/main.8238540c.js"
   ]
 }
