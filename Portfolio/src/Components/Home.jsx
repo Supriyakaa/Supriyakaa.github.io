@@ -65,6 +65,8 @@ export function Home() {
                 bgColor="blue.300"
                 _hover={"none"}
               >
+
+                
                 Hire Me
               </Button>
               </Link>
