@@ -1,3 +1,4 @@
+
 import { Link } from "react-scroll";
 import {
   Box,
@@ -41,6 +42,14 @@ export function Navbar() {
   const { isOpen, onOpen, onClose } = useDisclosure();
   const { colorMode, toggleColorMode } = useColorMode();
   const NavBgColor = useColorModeValue("gray.50", "gray.900");
+  // const logoImage = ()=>{
+  //   if(colorMode=="light"){
+  //     return 
+  //   }
+  //   if(colorMode=="dark"){
+
+  //   }
+  // }
 
   return (
     <>
@@ -81,6 +90,20 @@ export function Navbar() {
                   {el.page}
                 </Link>
               ))}
+              <Button
+                width={["80px", "80px", "120px"]}
+                fontSize={["12px", "12px", "18px"]}
+                onClick={() => {
+                  return window.open(
+                    "https://drive.google.com/drive/folders/1uDcHFB7YXvDPhKlfyoac4bxojo29AVWC?usp=share_link",
+                     "_blank"
+                  );
+                }}
+              >
+                Resume 
+                &nbsp;
+                {/* <span><BiShowAlt/></span> */}
+              </Button>
               <Button
                 borderRadius={"50%"}
                 width="42px"

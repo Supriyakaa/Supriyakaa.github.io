@@ -93,7 +93,7 @@ import { BsGithub } from "react-icons/bs";
             "rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px",
         }}
         src={
-          "https://activity-graph.herokuapp.com/graph?username=atrivedi8988&theme=github"
+          "https://activity-graph.herokuapp.com/graph?username=Supriyakaa&theme=github"
         }
       />
 
@@ -120,9 +120,9 @@ import { BsGithub } from "react-icons/bs";
                 "rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px",
             }}
             src={
-              "https://github-readme-stats.vercel.app/api?username=atrivedi8988&show_icons=true&locale=en&theme=tokyonight"
+              "https://github-readme-stats.vercel.app/api?username=Supriyakaa&show_icons=true&locale=en&theme=tokyonight"
             }
-            alt="atrivedi8988"
+            alt="Supriyakaa"
           />
 
           {/* -------- (Current Streak) ---------- */}
@@ -141,9 +141,9 @@ import { BsGithub } from "react-icons/bs";
                 "rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px",
             }}
             src={
-              "https://github-readme-streak-stats.herokuapp.com/?user=atrivedi8988&show_icons=true&locale=en&theme=tokyonight"
+              "https://github-readme-streak-stats.herokuapp.com/?user=Supriyakaa&show_icons=true&locale=en&theme=tokyonight"
             }
-            alt="atrivedi8988"
+            alt="supriya9898"
           />
         </Box>
         <Box
@@ -197,7 +197,7 @@ import { BsGithub } from "react-icons/bs";
                 "rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px",
             }}
             src={
-              "https://github-readme-stats.vercel.app/api/top-langs?username=atrivedi8988&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+              "https://github-readme-stats.vercel.app/api/top-langs?username=Supriyakaa&show_icons=true&locale=en&layout=compact&theme=tokyonight"
             }
             alt="dsz8988"
           />

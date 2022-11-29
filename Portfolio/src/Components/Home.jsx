@@ -13,18 +13,19 @@ import { Link } from "react-scroll";
 import { Title } from "./Title";
 
 export function Home() {
+
   return (
     <>
       <Box className="home">
         <HStack
-          // border={"1px solid green"}
+         
           justifyContent="space-evenly"
           width="88%"
           margin={"auto"}
           mt="50px"
         >
           <VStack
-            //   border={"1px solid red"}
+          
             alignItems={"flex-start"}
           >
             <Text fontSize={{ base: "md", sm: "2xl", md: "4xl" }}>
