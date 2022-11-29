@@ -12,11 +12,14 @@ const data = [
       "Sign In, Sign Up and Dynamic Pages",
     img: "MINDTICKLE.png",
     clone: "https://github.com/Supriyakaa/moving-party-2070",
+
     deploy: "https://gleaming-marigold-54711f.netlify.app/",
   },
   {
     title: "Apple TV Clone",
+    
     desc: "This is a clone of Apple TV. Website was built with all features.",
+
     techStack: "HTML | CSS | ReactJS | ChakraUI ",
     feature:
       " Login Page ,Sign-Up Page , HomePage, VideoPlayer. This is an individual project built in 3 days.",
