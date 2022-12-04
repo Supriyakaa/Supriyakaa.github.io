@@ -2,7 +2,10 @@ import React from "react";
 import Typewriter from "typewriter-effect";
 
 export function Title() {
+
+
  return (
+
    <Typewriter
       options={{
          strings: [
@@ -14,6 +17,9 @@ export function Title() {
         loop: true,
         deleteSpeed: 50,
      }}
+
      />
    );
+
+   
 }
