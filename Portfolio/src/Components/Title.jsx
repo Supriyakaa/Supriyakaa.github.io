@@ -13,8 +13,11 @@ export function Title() {
            "Problem Solver",
          "Full Stack Developer"
       ],
+
         autoStart: true,
+
         loop: true,
+        
         deleteSpeed: 50,
      }}
 
