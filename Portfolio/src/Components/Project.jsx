@@ -25,7 +25,7 @@ const data = [
       " Login Page ,Sign-Up Page , HomePage, VideoPlayer. This is an individual project built in 3 days.",
     img: "Apple_TV.png",
     clone: "https://github.com/Supriyakaa/polite-sheep-7319",
-    deploy: "https://stellular-yeot-3906c1.netlify.app/",
+    deploy: "https://effervescent-chebakia-a945a1.netlify.app",
   },
   {
     title: "INDIA TODAY",
