@@ -96,7 +96,7 @@ export function Home() {
           <Box>
             <Image
               src={require("../files/profile.jpg")}
-              borderRadius="40px"
+              borderRadius="200px"
               width={["150px", "150px", "250px"]}
             />
           </Box>
