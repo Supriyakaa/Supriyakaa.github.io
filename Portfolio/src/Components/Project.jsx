@@ -13,16 +13,7 @@ const data = [
     clone: "https://github.com/actuallyakshay/skinny-leg-3425",
     deploy: "https://client-rho-inky.vercel.app/",
   },
-  {
-    title: "Freshly.com",
-    desc: "Freshly is a weekly subscription that delivers fresh meals—all developed by our team of chefs and nutritionists. They're fully cooked and shipped to you fresh, not frozen, so all you need to do is reheat and enjoy following the instructions on the back of each meal sleeve",
-    techStack: "React | Redux | Axios | Nodejs | Expressjs | Authantications | Chakra-UI",
-    feature:
-      " E-Commerce website for food ordering, Sign In, Sign Out, Navbar with Drop-down Menu, Static Page, Button and Payment Page",
-    img: "fresh.png",
-    clone: "https://github.com/Supriyakaa/Freshly-Website-Clonet",
-    deploy: "https://sophisticated-legs-486.netlify.app/",
-  },
+
  
   {
     title: "Mindtickle",
@@ -35,6 +26,17 @@ const data = [
     clone: "https://github.com/Supriyakaa/moving-party-2070",
 
     deploy: "https://gleaming-marigold-54711f.netlify.app/",
+  },
+
+  {
+    title: "Freshly.com",
+    desc: "Freshly is a weekly subscription that delivers fresh meals—all developed by our team of chefs and nutritionists. They're fully cooked and shipped to you fresh, not frozen, so all you need to do is reheat and enjoy following the instructions on the back of each meal sleeve",
+    techStack: "React | Redux | Axios | Nodejs | Chakra-UI",
+    feature:
+      " E-Commerce website for food ordering, Sign In, Sign Out, Navbar with Drop-down Menu, Static Page, Button and Payment Page",
+    img: "fresh.png",
+    clone: "https://github.com/Supriyakaa/Freshly-Website-Clonet",
+    deploy: "https://sophisticated-legs-486.netlify.app/",
   },
   {
     title: "Apple TV Clone",
