@@ -141,7 +141,7 @@ import { BsGithub } from "react-icons/bs";
                 "rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px",
             }}
             src={
-              "https://github-readme-streak-stats.herokuapp.com/?user=Supriyakaa&show_icons=true&locale=en&theme=tokyonight"
+              "https://github-readme-streak-stats.herokuapp.com/?user=atrivedi8988&show_icons=true&locale=en&theme=tokyonight"
             }
             alt="supriya9898"
           />
@@ -176,7 +176,7 @@ import { BsGithub } from "react-icons/bs";
               style={{
                 margin: "auto",
               }}
-              username="dsasa8988"
+              username="Supriyakaa"
               year={new Date().getFullYear()}
             />
           </Box>

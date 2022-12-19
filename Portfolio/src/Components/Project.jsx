@@ -4,6 +4,27 @@ import GitHubCalendar from "react-github-calendar";
 
 const data = [
   {
+    title:  "Pharmacy.com Clone",
+    desc: "India's Most Preferred E-Commers Medicines With Up To 85% Discount. Get Speciality Medicines for Cancer, Hiv/Aids, Kidney Care, Hepatitis and More. Services: Cash on Delivery, Timely Delivery, Genuine Medicines.",
+    techStack: "React | Redux | Axios | Nodejs | Expressjs | Authantications | Chakra-UI",
+    feature:
+      " Fully E-Commerce website with lots of feature Sign up, Sign In, Sign Out, Navbar with Drop-down Menu,  All the static Page, product page",
+    img: "pharm.png",
+    clone: "https://github.com/actuallyakshay/skinny-leg-3425",
+    deploy: "https://client-rho-inky.vercel.app/",
+  },
+  {
+    title: "Freshly.com",
+    desc: "Freshly is a weekly subscription that delivers fresh meals—all developed by our team of chefs and nutritionists. They're fully cooked and shipped to you fresh, not frozen, so all you need to do is reheat and enjoy following the instructions on the back of each meal sleeve",
+    techStack: "React | Redux | Axios | Nodejs | Expressjs | Authantications | Chakra-UI",
+    feature:
+      " E-Commerce website for food ordering, Sign In, Sign Out, Navbar with Drop-down Menu, Static Page, Button and Payment Page",
+    img: "fresh.png",
+    clone: "https://github.com/Supriyakaa/Freshly-Website-Clonet",
+    deploy: "https://sophisticated-legs-486.netlify.app/",
+  },
+ 
+  {
     title: "Mindtickle",
     desc: "  Mindtickle is a Sales Readiness Platform for onboarding, product training, coaching and ongoing readiness, that helps fast growing companies to prepare their sales teams and partners in a scalable and effective way.",
     techStack:
@@ -37,6 +58,9 @@ const data = [
     clone: "https://github.com/Supriyakaa/Project/tree/master/Project",
     deploy: "https://stellular-yeot-3906c1.netlify.app/",
   },
+ 
+
+  
 ];
 
 export function Project() {
