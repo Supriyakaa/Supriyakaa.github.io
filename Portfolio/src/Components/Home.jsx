@@ -92,16 +92,23 @@ export function Home() {
               </Button>
               <Button><a href={require("../files/Supriya_Pathak_Resume.pdf")} download><FaCloudDownloadAlt/></a></Button>
             </HStack>
+
           </VStack>
+
           <Box>
+
+
             <Image
               src={require("../files/profile.jpg")}
               borderRadius="200px"
               width={["150px", "150px", "250px"]}
             />
           </Box>
+          
         </HStack>
+
       </Box>
+
     </>
   );
 }
