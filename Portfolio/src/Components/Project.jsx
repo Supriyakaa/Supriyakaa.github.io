@@ -35,7 +35,8 @@ const data = [
     feature:
       " E-Commerce website for food ordering, Sign In, Sign Out, Navbar with Drop-down Menu, Static Page, Button and Payment Page",
     img: "fresh.png",
-    clone: "https://github.com/Supriyakaa/Freshly-Website-Clonet",
+    clone: "https://github.com/Supriyakaa/Freshly-Website-Clone",
+    
     deploy: "https://sophisticated-legs-486.netlify.app/",
   },
   {
