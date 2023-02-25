@@ -148,8 +148,11 @@ import { BsGithub } from "react-icons/bs";
         </Box>
         <Box
           display={["grid", "grid", "grid", "flex"]}
+
           w={"100%"}
+
           gap={5}
+
           mt="5"
         >
           {/* -------- (Calender) ---------- */}
@@ -163,6 +166,7 @@ import { BsGithub } from "react-icons/bs";
             p={"20px"}
             pt={["45px", "45px", "52px", "52px"]}
             pb={["45px", "45px", "52px", "52px"]}
+            
             borderRadius="10px"
             className="github_Calender"
             transition="all .5s ease-in-out"
