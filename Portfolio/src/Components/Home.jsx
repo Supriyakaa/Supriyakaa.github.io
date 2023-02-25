@@ -74,21 +74,16 @@ export function Home() {
             <HStack>
               <Link to="contact">
               <Button
-                  fontSize={["12px", "12px", "18px"]}
-
-                  width={["60px", "60px", "100px"]}
-
-                  color={"black"}
-
-
-                  bgColor="blue.300"
-                  
-                  _hover={"none"}
+                fontSize={["12px", "12px", "18px"]}
+                width={["60px", "60px", "100px"]}
+                color={"black"}
+                bgColor="blue.300"
+                _hover={"none"}
               >
                 Hire Me
 
               </Button>
-
+              
               </Link>
               <Button
                 width={["60px", "60px", "100px"]}
