@@ -60,8 +60,8 @@ export function Home() {
 
               style={{ marginTop: "0px" }}
             >
-              {/* Intermidiate at - NodeJS, ReactJS, MongoDB, I love to play with
-              DOMS. */}
+              Intermidiate at - NodeJS, ReactJS, MongoDB, I love to play with
+              DOMS.
               <br /> Cloning some of the Websites{" "}
               <br />
             </Text>
