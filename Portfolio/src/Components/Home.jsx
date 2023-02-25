@@ -7,10 +7,13 @@ import {
   Heading,
   Button,
 } from "@chakra-ui/react";
+
 import { FaCloudDownloadAlt } from 'react-icons/fa';
 
 import { BiShowAlt } from 'react-icons/bi';
+
 import { Link } from "react-scroll";
+
 import { Title } from "./Title";
 
 export function Home() {
@@ -20,9 +23,7 @@ export function Home() {
 
       <Box className="home">
 
-
         <HStack
-          // border={"1px solid green"}
           justifyContent="space-evenly"
           width="88%"
           margin={"auto"}
@@ -31,7 +32,7 @@ export function Home() {
 
 
           <VStack
-            //   border={"1px solid red"}
+           
             alignItems={"flex-start"}
           >
             <Text fontSize={{ base: "md", sm: "2xl", md: "4xl" }}>
