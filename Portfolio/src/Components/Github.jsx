@@ -156,20 +156,29 @@ import { BsGithub } from "react-icons/bs";
           mt="5"
         >
           {/* -------- (Calender) ---------- */}
-          <Box
-            overflow={"hidden"}
-            color={checkTheme ? "white" : "black"}
-            bg={checkTheme ? "#1a202c" : "#ffffff"}
-            w={["100%"]}
-            m="auto"
-            border="2px solid #fe9119"
-            p={"20px"}
-            pt={["45px", "45px", "52px", "52px"]}
-            pb={["45px", "45px", "52px", "52px"]}
+            {/* <Box
+              overflow={"hidden"}
 
-            borderRadius="10px"
-            className="github_Calender"
-            transition="all .5s ease-in-out"
+              color={checkTheme ? "white" : "black"}
+
+              bg={checkTheme ? "#1a202c" : "#ffffff"}
+
+              w={["100%"]}
+              
+              m="auto"
+              border="2px solid #fe9119"
+              p={"20px"}
+
+              pt={["45px", "45px", "52px", "52px"]}
+
+              pb={["45px", "45px", "52px", "52px"]}
+
+              borderRadius="10px"
+
+              className="github_Calender"
+
+              transition="all .5s ease-in-out" */}
+
             _hover={{
               transform: "scale(1.1)",
               boxShadow:
@@ -181,6 +190,7 @@ import { BsGithub } from "react-icons/bs";
                 margin: "auto",
               }}
               username="Supriyakaa"
+
               year={new Date().getFullYear()}
             />
           </Box>
@@ -193,7 +203,7 @@ import { BsGithub } from "react-icons/bs";
             border="2px solid #fe9119"
 
             padding={"5px"}
-            
+
             borderRadius="10px"
 
             className="github_Calender"
@@ -202,6 +212,7 @@ import { BsGithub } from "react-icons/bs";
 
             _hover={{
               transform: "scale(1.1)",
+
               boxShadow:
                 "rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px",
             }}
