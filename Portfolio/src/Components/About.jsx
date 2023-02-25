@@ -84,6 +84,7 @@ export function About() {
           have a deeper knowledge of Data Structure Algorithms.
           
           Looking for an opportunity to work in a challenging
+          
           work environment to develop skills and deeper
           understanding of Web development.
 
