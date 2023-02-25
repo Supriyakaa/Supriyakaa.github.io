@@ -75,13 +75,14 @@ export function About() {
             p={"0px 20px 0px 20px"}
             data-aos="zoom-in-left"
           >
-            Hello, I am Supriya Pathak from Gujarat... An Energetic and passion-driven
-             MERN Stack Developer having 1200 hours of intensive Coding experience and
-able to write clean, reusable, and optimized code. Also,
-have a deeper knowledge of Data Structure Algorithms.
-Looking for an opportunity to work in a challenging
-work environment to develop skills and deeper
-understanding of Web development.
+                      Hello, I am Supriya Pathak from Gujarat... An Energetic and passion-driven
+                      
+                      MERN Stack Developer having 1200 hours of intensive Coding experience and
+          able to write clean, reusable, and optimized code. Also,
+          have a deeper knowledge of Data Structure Algorithms.
+          Looking for an opportunity to work in a challenging
+          work environment to develop skills and deeper
+          understanding of Web development.
 
           </Container>
         </Box>
