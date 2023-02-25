@@ -1,20 +1,29 @@
 import React, { useEffect, useState } from "react";
+
 import GitHubCalendar from "react-github-calendar";
+
 import AOS from "aos";
+
 import "aos/dist/aos.css";
 
 import { Box, Button, Grid, Heading, Image } from "@chakra-ui/react";
+
 import { BsGithub } from "react-icons/bs";
+
  export const GitHub = (props) => {
+
   const { checkTheme, GithubScroll } = props;
 
   const [theme, setTheme] = useState({});
+
   const [theme1, setTheme1] = useState({});
 
   // --------------- (Animation)--------------
+
   useEffect(() => {
     AOS.init({ offset: 300, duration: 1000 });
   }, []);
+
 
   useEffect(() => {
     if (checkTheme) {
@@ -31,6 +40,7 @@ import { BsGithub } from "react-icons/bs";
   }, [checkTheme]);
 
   // =================== Theme 2 =====================>
+
   useEffect(() => {
     if (checkTheme) {
       setTheme({
@@ -147,16 +157,19 @@ import { BsGithub } from "react-icons/bs";
           />
         </Box>
         <Box
+
           display={["grid", "grid", "grid", "flex"]}
 
           w={"100%"}
 
           gap={5}
 
-          mt="5"
-        >
-          -------- (Calender) ---------- 
+          mt="5">
+        
+          {/* -------- (Calender) ----------  */}
+
              <Box
+
               overflow={"hidden"}
 
               color={checkTheme ? "white" : "black"}
