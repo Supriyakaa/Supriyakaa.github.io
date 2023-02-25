@@ -7,7 +7,8 @@ import {
   Heading,
   Button,
 } from "@chakra-ui/react";
-import { FaCloudDownloadAlt } from 'react-icons/fa'
+import { FaCloudDownloadAlt } from 'react-icons/fa';
+
 import { BiShowAlt } from 'react-icons/bi';
 import { Link } from "react-scroll";
 import { Title } from "./Title";
@@ -54,11 +55,13 @@ export function Home() {
             </Text>
             <Text
               align={"start"}
+
               fontSize={{ base: "10px", sm: "15px", md: "sm" }}
+
               style={{ marginTop: "0px" }}
             >
-              Intermidiate at -  NodeJS,ReactJS, MongoDB. love to play with
-              DOMS.
+              {/* Intermidiate at - NodeJS, ReactJS, MongoDB, I love to play with
+              DOMS. */}
               <br /> Cloning some of the Websites{" "}
               <br />
             </Text>
@@ -90,7 +93,9 @@ export function Home() {
                 &nbsp;
                 <span><BiShowAlt/></span>
               </Button>
-              <Button><a href={require("../files/Supriya_Pathak_Resume.pdf")} download><FaCloudDownloadAlt/></a></Button>
+              <Button><a href={require("../files/Supriya_Pathak_Resume.pdf")} download>
+                <FaCloudDownloadAlt/></a>
+                </Button>
             </HStack>
 
           </VStack>
