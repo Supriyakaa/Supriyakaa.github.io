@@ -179,7 +179,7 @@ export function Contact() {
             Copyright ©2022 All rights reserved | This template is made with ♥
             by{" "}
             <Link href="https://github.com/Supriyakaa" target={"_blank"}>
-              supriya_pathak
+              Supriya_Pathak
             </Link>
           </Text>
         </Box>
