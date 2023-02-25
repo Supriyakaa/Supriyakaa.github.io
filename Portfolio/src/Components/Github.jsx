@@ -166,7 +166,7 @@ import { BsGithub } from "react-icons/bs";
             p={"20px"}
             pt={["45px", "45px", "52px", "52px"]}
             pb={["45px", "45px", "52px", "52px"]}
-            
+
             borderRadius="10px"
             className="github_Calender"
             transition="all .5s ease-in-out"
@@ -191,10 +191,15 @@ import { BsGithub } from "react-icons/bs";
             w={["100%", "100%", "103%", "103%"]}
             m="auto"
             border="2px solid #fe9119"
+
             padding={"5px"}
+            
             borderRadius="10px"
+
             className="github_Calender"
+
             transition="all .5s ease-in-out"
+
             _hover={{
               transform: "scale(1.1)",
               boxShadow:
