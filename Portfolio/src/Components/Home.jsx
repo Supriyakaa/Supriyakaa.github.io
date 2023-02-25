@@ -47,13 +47,16 @@ export function Home() {
             >
               Supriya Pathak
             </Heading>
-            <Text
-              fontSize={{ base: "md", sm: "2xl", md: "4xl" }}
-              paddingBottom="-30px"
-              color={"orange.400"}
-            >
-              <Title/>
+
+              <Text
+                fontSize={{ base: "md", sm: "2xl", md: "4xl" }}
+                paddingBottom="-30px"
+                color={"orange.400"}
+              >
+                <Title/>
+
             </Text>
+
             <Text
               align={"start"}
 
@@ -65,24 +68,33 @@ export function Home() {
               DOMS.
               <br /> Cloning some of the Websites{" "}
               <br />
+
             </Text>
+
             <HStack>
               <Link to="contact">
               <Button
-                fontSize={["12px", "12px", "18px"]}
-                width={["60px", "60px", "100px"]}
-                color={"black"}
-                bgColor="blue.300"
-                _hover={"none"}
-              >
+                  fontSize={["12px", "12px", "18px"]}
 
-            
+                  width={["60px", "60px", "100px"]}
+
+                  color={"black"}
+
+
+                  bgColor="blue.300"
+                  
+                  _hover={"none"}
+              >
                 Hire Me
+
               </Button>
+
               </Link>
               <Button
                 width={["60px", "60px", "100px"]}
+
                 fontSize={["12px", "12px", "18px"]}
+
                 onClick={() => {
                   return window.open(
                     "https://drive.google.com/drive/folders/1uDcHFB7YXvDPhKlfyoac4bxojo29AVWC?usp=share_link",
